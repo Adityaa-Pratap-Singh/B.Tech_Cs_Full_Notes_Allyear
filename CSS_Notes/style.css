@@ -1,0 +1,23 @@
+h1{
+    color:red;
+}
+
+p{
+    color:green;
+}
+
+button{
+    color: rgb(94, 0, 225);
+    background-color: green ;
+}
+
+body{
+    background-color: pink;
+}
+
+.myc{
+    color:#0000ff;
+}
+p.hover{
+    color:green;
+}
