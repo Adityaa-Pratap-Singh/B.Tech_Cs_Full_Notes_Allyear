@@ -1,7 +1,5 @@
 # 📚 Database Management Systems (DBMS) – Syllabus Overview
 
----
-
 ### 🔹 Introduction
 - Overview of DBMS
 - Comparison: Database System vs File System
@@ -10,8 +8,7 @@
 - Data Independence
 - Database Languages and Interfaces (DDL, DML, DCL)
 - Database Development Life Cycle (DDLC) with case studies
-
-  ---
+---
 
 ### 🔹 Data Modeling Using the Entity-Relationship Model
 - ER Model Concepts and Notation
