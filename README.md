@@ -1,6 +1,6 @@
 # B.Tech CS Full Notes (All Years)
 
-📚 A complete collection of B.Tech Computer Science notes, organized by year and subject.
+📚 A complete collection of B.Tech Computer Science notes.
 
 ## 📖 Contents
 
