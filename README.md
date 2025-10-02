@@ -40,4 +40,4 @@ Found a better version of notes? Feel free to open a pull request!
 
 ---
 
-🎓 Made for students, by students!
+🎓 Made for students, by Me!
