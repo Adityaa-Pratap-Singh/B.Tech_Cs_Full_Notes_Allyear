@@ -5,7 +5,7 @@
 ## 📖 Contents
 
 - 🧠 First Year
-  - Programming in C
+  - Programming in Python
   - Engineering Mathematics
   - Physics & Chemistry
   - Environmental Studies
