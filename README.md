@@ -7,7 +7,7 @@
 - 🧠 First Year
   - Programming in Python
   - Engineering Mathematics
-  - Physics & Chemistry
+  - Physics 
   - Environmental Studies
 
 - 💻 Second Year
