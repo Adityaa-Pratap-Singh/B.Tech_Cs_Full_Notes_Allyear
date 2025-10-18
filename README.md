@@ -17,7 +17,7 @@
   - OOPs with Java
 
 - 🖧 Third Year
-  - Operating Systems
+  - Operating System
   - Computer Networks
   - Software Engineering
   - Web Technologies
