@@ -8,7 +8,7 @@
   - Programming in Python
   - Engineering Mathematics
   - Physics
-  - Environmental Studiez
+  - Environmental Studiez 
 
 - 💻 Second Year
   - Data Structures
