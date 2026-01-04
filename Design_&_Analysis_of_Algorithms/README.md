@@ -34,8 +34,6 @@ The course focuses on understanding algorithm design techniques, complexity anal
 - Binomial Heaps  
 - Fibonacci Heaps  
 
----
-
 #### 5. Greedy Approach Applications
 - Job Sequencing with Deadline  
 - Fractional Knapsack  
