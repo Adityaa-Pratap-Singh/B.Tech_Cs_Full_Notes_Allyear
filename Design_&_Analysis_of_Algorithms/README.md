@@ -1,4 +1,4 @@
-# 📘Design & Analysis of Algorithms (DAA)
+#📘Design & Analysis of Algorithms (DAA)
 
 This repository contains structured notes, explanations, and implementations related to the **Design & Analysis of Algorithms** course.  
 
@@ -36,9 +36,7 @@ The course focuses on understanding algorithm design techniques, complexity anal
 
 ---
 
-### 🔹 Module II (20 Hours)
-
-#### 1. Greedy Approach Applications
+#### 5. Greedy Approach Applications
 - Job Sequencing with Deadline  
 - Fractional Knapsack  
 - Minimum Spanning Trees  
@@ -48,7 +46,7 @@ The course focuses on understanding algorithm design techniques, complexity anal
   - Dijkstra’s Algorithm  
   - Bellman-Ford Algorithm  
 
-#### 2. Dynamic Programming Applications
+#### 6. Dynamic Programming Applications
 - 0/1 Knapsack  
 - All Pairs Shortest Path  
   - Warshall’s Algorithm  
@@ -56,7 +54,7 @@ The course focuses on understanding algorithm design techniques, complexity anal
 - Longest Common Subsequence (LCS)  
 - Matrix Chain Multiplication  
 
-#### 3. Backtracking, Branch and Bound Applications
+#### 7. Backtracking, Branch and Bound Applications
 - Travelling Salesman Problem  
 - Graph Coloring  
 - N-Queen Problem  
@@ -79,22 +77,6 @@ The course focuses on understanding algorithm design techniques, complexity anal
 - B.Tech / BCA / MCA students  
 - Students preparing for **university exams**  
 - Learners preparing for **technical interviews**
-
----
-
-## 🤝 Contributions
-
-Contributions are welcome!  
-You can help by adding:
-- Code implementations  
-- Optimized solutions  
-- Diagrams and explanations  
-
----
-
-## ⭐ Acknowledgement
-
-This repository follows the syllabus of **BCSC: 0059 – Design & Analysis of Algorithms**.
 
 ---
 
