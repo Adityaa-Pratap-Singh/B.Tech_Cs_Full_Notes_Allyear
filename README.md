@@ -25,7 +25,6 @@
 - 🤖 Final Year
   - Artificial Intelligence
   - Machine Learning
-  - Cloud Computing
   - Project Work
 
 ## 🚀 How to Use
