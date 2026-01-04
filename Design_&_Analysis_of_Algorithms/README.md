@@ -1,4 +1,4 @@
-#📘Design & Analysis of Algorithms (DAA)
+# 📘Design & Analysis of Algorithms (DAA)
 
 This repository contains structured notes, explanations, and implementations related to the **Design & Analysis of Algorithms** course.  
 
