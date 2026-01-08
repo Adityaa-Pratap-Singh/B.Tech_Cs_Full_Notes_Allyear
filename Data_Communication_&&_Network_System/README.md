@@ -1,28 +1,11 @@
-# 📡 BCSC 0060: Data Communication & Network System
+# 📡 Data Communication & Network System
 
 ## 📘 Course Overview
 **BCSC 0060 – Data Communication & Network System** focuses on the fundamental principles of computer networking, layered network architecture, and the functioning of modern communication systems. The course provides both theoretical knowledge and practical exposure to networking concepts and protocols.
 
 ---
 
-## 🎯 Course Objective
-The objective of this course is to understand:
-- Fundamental principles of computer networking  
-- Details and functionality of layered network architecture  
-- Core networking protocols and technologies used in real-world networks  
-
----
-
-## 📊 Course Details
-- **Credits:** 03  
-- **L–T–P–J:** 3–0–0–0  
-- **Teaching Hours:** 40 Hours  
-
----
-
 ## 📚 Syllabus Structure
-
-### 🔹 Module I (20 Hours)
 
 #### **Introduction Concepts**
 - Goals and applications of networks  
@@ -58,8 +41,6 @@ The objective of this course is to understand:
 - Overview of IEEE standards  
 
 ---
-
-### 🔹 Module II (20 Hours)
 
 #### **Network Layer**
 - IP addressing  
