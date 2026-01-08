@@ -1,8 +1,5 @@
 # 📡 Data Communication & Network System
 
-## 📘 Course Overview
-**BCSC 0060 – Data Communication & Network System** focuses on the fundamental principles of computer networking, layered network architecture, and the functioning of modern communication systems. The course provides both theoretical knowledge and practical exposure to networking concepts and protocols.
-
 ---
 
 ## 📚 Syllabus Structure
