@@ -75,32 +75,8 @@
 
 ---
 
-## 🛠 Tools & Technologies
-- Cisco Packet Tracer  
-- Networking simulation tools  
-
----
-
-## 📌 Learning Outcomes
-By the end of this course, students will be able to:
-- Understand layered network architectures  
-- Analyze and configure IP addressing and routing  
-- Explain data transmission, error control, and congestion control mechanisms  
-- Work with common application-layer protocols  
-
----
-
-## 📖 Recommended Use
-This repository can be used for:
-- Academic reference  
-- Exam preparation  
-- Networking fundamentals revision  
-- Practical networking simulations  
-
----
-
-## ✍️ Author
-**Aditya Pratap**  
+## ✍️ By
+**Aditya Pratap Singh**  
 _B.Tech (Hons.) Computer Science_
 
 ---
