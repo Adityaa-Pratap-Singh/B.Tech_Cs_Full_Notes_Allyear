@@ -1,31 +1,10 @@
 # B.Tech CS Full Notes (All Years)
 
-📚 A complete collection of B.Tech Computer Science notes.
+📚 A complete collection of B.Tech Computer Science Important Subjects notes.
 
 ## 📖 Contents
 
-- 🧠 First Year
-  - Programming in Python
-  - Engineering Mathematics
-  - Physics
-   
 
-- 💻 Second Year
-  - Data Structures
-  - Computer Organization
-  - DBMS
-  - OOPs with Java
-
-- 🖧 Third Year
-  - Operating System
-  - Computer Networks
-  - Software Engineering
-  - Web Technologies
-
-- 🤖 Final Year
-  - Artificial Intelligence
-  - Machine Learning
-  - Project Work
 
 ## 🚀 How to Use
 
@@ -39,4 +18,4 @@ Found a better version of notes? Feel free to open a pull request!
 
 ---
 
-🎓 Made for students, by Me!
+🎓 Made for students, by Aditya Pratap Singh!
