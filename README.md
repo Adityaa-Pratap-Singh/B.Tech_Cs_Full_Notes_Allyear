@@ -4,7 +4,18 @@
 
 ## 📖 Contents
 
+- CSS  
+- Database Management System (DBMS)  
+- Data Communication & Computer Networks  
+- Design & Analysis of Algorithms (DAA)  
+- Git and GitHub  
+- HTML  
+- JavaScript  
+- Operating System (OS)  
+- Python  
+- Software Engineering & Project Management  
 
+---
 
 ## 🚀 How to Use
 
