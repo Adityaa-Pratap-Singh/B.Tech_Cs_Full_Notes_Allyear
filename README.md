@@ -14,6 +14,7 @@
 - Operating System (OS)  
 - Python  
 - Software Engineering & Project Management  
+- Cloud Computing 
 
 ---
 
